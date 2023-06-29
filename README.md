@@ -20,7 +20,7 @@ Los pilares principales de Trustworthy AI son:
 
 ## Contenido del Repositorio
 
-- **Notebooks**: En la carpeta "Trustworthy AI Tools" se encuentran los notebooks desarrollados para cada una de las herramientas utilizadas. Estos notebooks contienen ejemplos prácticos y explicaciones detalladas sobre la implementación de cada herramienta.
+- **Notebooks**: En la carpeta "notebooks" se encuentran los notebooks desarrollados para cada una de las herramientas utilizadas. Estos notebooks contienen ejemplos prácticos y explicaciones detalladas sobre la implementación de cada herramienta.
 
 - **Recursos**: En la carpeta "resources" se encuentra el dataset utilizado en este proyecto, llamado "HeartDiseaseDataset.csv". Este dataset ha sido seleccionado por su idoneidad y marcado para aplicar las herramientas de Trustworthy AI.
 
